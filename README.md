@@ -10,4 +10,4 @@ Face Detection is a small demo application based on Firebase ML Kit.</p>
 
 ## Screenshot
 
-![screenshot](https://github.com/[asayush]/[Face-Detection-App]/blob/[master]/ss.jpeg?raw=true)
+![screenshot](https://github.com/asayush/Face-Detection-App/blob/master/ss.jpeg?raw=true)

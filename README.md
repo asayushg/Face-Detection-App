@@ -10,4 +10,4 @@ Face Detection is a small demo application based on Firebase ML Kit.</p>
 
 ## Screenshot
 
-![screenshot](ss.jpeg)
+<img src="ss.jpeg" alt="Screenshot" width="250"/>
